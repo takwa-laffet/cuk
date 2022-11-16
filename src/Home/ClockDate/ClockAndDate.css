@@ -1,0 +1,29 @@
+.clockDate__clz,
+.date__clz {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+.mainBody__clz {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+}
+.clockDate__clz {
+  width: 100%;
+  height: 65vh;
+}
+.clock__clz {
+  margin: -20px;
+
+  font-size: 144px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.date__clz {
+  display: flex;
+  justify-content: center;
+  font-size: 35px;
+}

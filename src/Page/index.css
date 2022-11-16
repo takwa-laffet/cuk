@@ -1,0 +1,24 @@
+.card-clock-and-date {
+  height: 34vh;
+  display: flex;
+  justify-self: left;
+}
+
+.nav-bar__clz {
+  margin: auto;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.card-icon {
+  display: flex;
+  align-items: center;
+}
+
+.card-icon-text {
+  display: flex;
+  justify-content: center;
+  font-size: small;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}

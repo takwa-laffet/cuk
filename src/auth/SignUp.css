@@ -1,0 +1,37 @@
+.card-signup__clz {
+  height: 525px;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 412px;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+.btn-sing-up__clz {
+  position: relative;
+  left: 0%;
+  top: 0;
+}
+.qrcode__clz {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  align-self: center;
+  position: absolute;
+  left: 59%;
+  top: 28%;
+  background-color: rgba(255, 235, 205, 0);
+  width: 17vw;
+  height: 33vh;
+}
+.qr-code-header__clz {
+  font-size: xx-large;
+  color: whitesmoke;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  position: absolute;
+  left: 61%;
+  top: 20%;
+}
+.footer-sing-up__clz {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+}
